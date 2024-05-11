@@ -32,55 +32,55 @@ Additionally, my VM homelab is subnetted into three networks.
   - Flare-VM (172.16.3.2)
   - SIFT Workstation/REMnux (172.16.3.3)
 
-![List of VMs.](/images/VM_Homelab/ListOfVMs.png)
+![List of VMs.](/assets/img/VM_Homelab/ListOfVMs.png)
 _An overview of the VMs in my homelab._
 
 ## VirtualBox
 
-![VM settings.](/images/VM_Homelab/VM_screenshot.png)
+![VM settings.](/assets/img/VM_Homelab/VM_screenshot.png)
 _VM settings for my pfSense VM. All VMs have their host computer sharing options disabled._
 
-![Host-only adapter.](/images/VM_Homelab/HostOnlyAdapter.png)
+![Host-only adapter.](/assets/img/VM_Homelab/HostOnlyAdapter.png)
 _The host-only adapter connects my host computer to the LAN network._
 
 ## pfSense/Suricata
 
-![LAN firewall rules.](/images/VM_Homelab/FirewallRulesLAN.png)
-![OPT1 firewall rules.](/images/VM_Homelab/FirewallRulesOPT1.png)
-![OPT2 firewall rules.](/images/VM_Homelab/FirewallRulesOPT2.png)
+![LAN firewall rules.](/assets/img/VM_Homelab/FirewallRulesLAN.png)
+![OPT1 firewall rules.](/assets/img/VM_Homelab/FirewallRulesOPT1.png)
+![OPT2 firewall rules.](/assets/img/VM_Homelab/FirewallRulesOPT2.png)
 _Firewall rules for the LAN, Sysadmin, and Malware Analysis networks._
 
-![LAN DHCP reservations.](/images/VM_Homelab/LAN_DHCP.png)
-![OPT1 DHCP reservations.](/images/VM_Homelab/OPT1_DHCP.png)
-![OPT2 DHCP reservations.](/images/VM_Homelab/OPT2_DHCP.png)
+![LAN DHCP reservations.](/assets/img/VM_Homelab/LAN_DHCP.png)
+![OPT1 DHCP reservations.](/assets/img/VM_Homelab/OPT1_DHCP.png)
+![OPT2 DHCP reservations.](/assets/img/VM_Homelab/OPT2_DHCP.png)
 _DHCP reservations for the LAN, Sysadmin, and Malware Analysis networks._
 
-![DNS resolver.](/images/VM_Homelab/DNS_screenshot1.png)
-![DNS forwarding mode.](/images/VM_Homelab/DNS_screenshot2.png)
-![DNS name servers.](/images/VM_Homelab/DNS_screenshot3.png)
+![DNS resolver.](/assets/img/VM_Homelab/DNS_screenshot1.png)
+![DNS forwarding mode.](/assets/img/VM_Homelab/DNS_screenshot2.png)
+![DNS name servers.](/assets/img/VM_Homelab/DNS_screenshot3.png)
 _DNS settings for the pfSense VM._
 
-![NTP servers.](/images/VM_Homelab/NTP_settings.png)
+![NTP servers.](/assets/img/VM_Homelab/NTP_settings.png)
 _NTP settings for the pfSense VM._
 
-![Suricata interfaces.](/images/VM_Homelab/Suricata_screenshot1.png)
-![Suricata alerts.](/images/VM_Homelab/Suricata_screenshot2.png)
+![Suricata interfaces.](/assets/img/VM_Homelab/Suricata_screenshot1.png)
+![Suricata alerts.](/assets/img/VM_Homelab/Suricata_screenshot2.png)
 _Suricata is enabled on all internal network interfaces. The second screenshot is an example of alerts for the LAN interface. The IDS functionality is enabled for the Sysadmin and Malware Analysis networks as well._
 
-![Remote logging.](/images/VM_Homelab/RemoteLogging.png)
+![Remote logging.](/assets/img/VM_Homelab/RemoteLogging.png)
 _All firewall filter logs and Suricata logs are sent via syslog to 172.16.1.3:5147, which is the Splunk instance._
 
 ## Splunk
 
-![Splunk logs.](/images/VM_Homelab/SplunkIndex.png)
+![Splunk logs.](/assets/img/VM_Homelab/SplunkIndex.png)
 _My Splunk instance receives JSON logs on udp/5147 from the pfSense VM and stores them in the network index._
 
 ## REMnux, SIFT Workstation, and Flare VM
 
-![REMnux.](/images/VM_Homelab/REMnuxSIFT.png)
+![REMnux.](/assets/img/VM_Homelab/REMnuxSIFT.png)
 _REMnux and SIFT toolkits installed on the same Ubuntu Desktop._
 
-![FlareVM.](/images/VM_Homelab/FlareVM.png)
+![FlareVM.](/assets/img/VM_Homelab/FlareVM.png)
 _Flare VM installed on Windows 10._
 
 ## Future Homelab Plans for the Windows 10, Windows Server 2022, Fedora Server 39, and Fedora KDE Plasma Desktop 39 VMs
