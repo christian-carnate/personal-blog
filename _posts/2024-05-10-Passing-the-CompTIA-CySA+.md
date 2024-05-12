@@ -4,7 +4,7 @@ date: 2024-05-10 00:22:10 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications]
 description: The CompTIA CySA+ validates knowledge about security operations, vulnerability management, incident response, and reporting and communication. Read this article to learn more about it.
-image: /assets/img/article_prev/CompTIA_CySA+_logo.png
+image: /assets/img/article_prev/CompTIA_CySA+_background.png
 ---
 
 In February, I was finally promoted from my university's IT Help Desk to its Security Operations Center. Seeing that my new job title and responsibilities aligned with the certification, I studied for the CompTIA CySA+ CS0-003 in 2-3 weeks and passed with an exceptional score of 834/900. Here are my thoughts on the certification.

@@ -4,7 +4,7 @@ date: 2024-05-10 00:22:47 -1000
 categories: [Certifications, Splunk]
 tags: [certifications]
 description: Interested in certifying your Splunk knowledge? The Splunk Core Certified Power User certification is an excellent certification to start with.
-image: /assets/img/article_prev/Splunk_Core_Certified_Power_User_logo.png
+image: /assets/img/article_prev/Splunk_logo_background.png
 ---
 
 An important tool in the arsenal of a cybersecurity analyst is a Security Information and Event Management (SIEM) solution, which aggregates, correlates, and stores security logs, events, and messages in real-time. One of the most popular SIEMs in corporate environments is Splunk, which uses forwarders, indexers, and search heads to forward, ingest, parse, store, and search raw network data and events. As part of its certification program, Splunk offers the Splunk Core Certified Power User, which validates a user's ability to use Search Processing Language (SPL) efficiently, create knowledge objects and dashboards, and normalize data using datasets and the Splunk Common Information Model (CIM). This was a very fun certification to achieve, and this article will go over my thoughts on it.

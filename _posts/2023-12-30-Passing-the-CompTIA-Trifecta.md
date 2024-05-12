@@ -4,7 +4,7 @@ date: 2023-12-30 00:32:30 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications]
 description: The CompTIA A+, Network+, and Security+ are the most popular entry-level IT certifications in the world. Read this article to learn more about them.
-image: /assets/img/article_prev/CompTIA_trifecta.png
+image: /assets/img/article_prev/CompTIA_trifecta_background.jpg
 ---
 
 Ever since I obtained my CompTIA A+, Network+, and Security+ certifications, I have been continuously hounded by my friends and classmates about how to prepare for these certifications. Hopefully, this article will assist you in passing the associated exam(s) on your very first attempt.
