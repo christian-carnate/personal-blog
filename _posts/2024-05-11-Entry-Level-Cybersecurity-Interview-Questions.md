@@ -1,7 +1,7 @@
 ---
 title: Entry-Level Cybersecurity Interview Questions
 date: 2024-05-11 11:55:00 -1000
-categories: [Career Resources, Interviews]
+categories: [Cybersecurity Career Resources, Interviews]
 tags: [career resources]
 description: Received your first cybersecurity job interview? This article will cover common HR and technical questions to assist you with passing the interview stages with flying colors.
 image: /assets/img/article_prev/interview.jpg

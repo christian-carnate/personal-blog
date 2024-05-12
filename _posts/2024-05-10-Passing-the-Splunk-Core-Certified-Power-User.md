@@ -11,11 +11,11 @@ An important tool in the arsenal of a cybersecurity analyst is a Security Inform
 
 ## Overall Thoughts
 
-As already mentioned, this was a very fun certification to achieve. The learning curve is not as steep as Splunk's higher-level certifications, but learning how to use SPL, create knowledge objects, and use datasets gave enough of a challenge for someone who barely knew how to search an index efficiently. After achieving this certification, I have already built two search macros that exponentially speed up the parsing, analysis, and investigation of Cloudflare and Netskope logs. Admittedly, they are not perfect, but they are much better than the default SPL searches that the SOC I am a part of uses regularly (disclaimer: the wildcards added to the 
+As already mentioned, this was a very fun certification to achieve. The learning curve is not as steep as Splunk's higher-level certifications, but learning how to use SPL, create knowledge objects, and use datasets gave enough of a challenge for someone who barely knew how to search an index efficiently. After achieving this certification, I have already built two search macros that exponentially speed up the parsing, analysis, and investigation of Cloudflare and Netskope logs. Admittedly, they are not perfect, but they are much better than the default SPL searches that the SOC I am a part of uses regularly.
 
 **Cloudflare_Search(2)**
 ```
-index=cloudflare source="cloudflare-firewall" Action!=block ClientIP=\*$IP_Address$* ClientRequestUserAgent="\*$UserAgent$*"
+index=cloudflare source="cloudflare-firewall" Action!=block ClientIP=*$IP_Address$* ClientRequestUserAgent="*$UserAgent$*"
   | search NOT status IN (403 400 404 499) NOT ClientASN IN (13485 55256) NOT Description IN ("Terraform Rule - Allow Access to Admin Ajax" "Terraform Rule - Allow from internal IPs" "Allow from Internal IPs")
   | eval URL = ClientRequestHost+""+ClientRequestPath, Time = strftime(_time, "%a %m-%d-%Y %H:%M:%S"), Referer = if(Referer = "", null(), Referer)
   | table Time, ClientIP, ClientCountry, ClientASN, ClientRequestUserAgent, ClientRequestMethod, ClientRequestReferer, URL, status
@@ -25,9 +25,9 @@ index=cloudflare source="cloudflare-firewall" Action!=block ClientIP=\*$IP_Addre
 
 **Netskope_Search(3)**
 ```
-index=netskope user=\*$user$*
-  | search url=\*$url$* OR referer=\*$url$*
-  | search hostname=\*$ComputerName$*
+index=netskope user=*$user$*
+  | search url=*$url$* OR referer=*$url$*
+  | search hostname=*$ComputerName$*
   | eval Browser = browser+" "+browser_version, Referer = if(referer = "", null(), referer), app = if (app = "", null(), app)
   | table src_time, src_timezone, userip, dstip, hostname, user, os, Browser, referer, url, app, activity, action
   | rename src_time as "Time", src_timezone as "Timezone", userip as "GCU IP Address", dstip as "Website IP Address", hostname as "Computer Name", user as "User", os as "Operating System", referer as "Referer", url as "URL", app as "App", activity as "Activity", action as "Action Taken"

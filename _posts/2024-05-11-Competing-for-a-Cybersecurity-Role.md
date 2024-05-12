@@ -1,7 +1,7 @@
 ---
 title: Competing for a Cybersecurity Role
 date: 2024-05-11 17:50:00 -1000
-categories: [Career Resources, Career Guidance]
+categories: [Cybersecurity Career Resources, Career Guidance]
 tags: [career resources]
 description: Struggling to get a job in cybersecurity? Read this article for my tips and tricks into getting your foot in the cybersecurity door.
 image: /assets/img/article_prev/cybersecurity_analyst.jpg
@@ -41,6 +41,10 @@ This is a very common question asked in the community Discords I regularly frequ
 - **Offensive Security (OffSec) Certifications:** OffSec is arguably the most famous red team certification provider in the world, with their OSCP being the most sought for penetration testing certification by employers. However, OffSec's certifications are very expensive, which is why most individuals seeking to be OffSec certified let their employers pay for the associated exam vouchers and/or training.
 - **SANS/GIAC:** SANS is a cybersecurity training institute that is considered to be the gold standard for cybersecurity training worldwide, and GIAC is SANS's certification entity that certifies individuals who go through SANS's training. Like OffSec, SANS/GIAC's certifictions are very expensive, with training and the associated exam voucher costing over $8000 in total, but nothing can compare to the quality and reputation of SANS/GIAC certifications.
 - **Cloud Certifications:** Almost all medium-to-large-sized businesses use one or more public cloud service providers, such as AWS, Microsoft Azure, and Google Cloud Platform. In the near future, cloud experience will be a *must,* so going through a cloud services provider's certification paths are a good idea even if the cloud will not be your main specialty.
+
+#### Speaking of projects, what are good ideas for beginner projects?
+
+If you are into system administration and blue team work, then I highly recommend building a home lab using physical devices or virtual machines (VMs). If you cannot afford physical devices, then I recommend designing and creating a VM home lab based on Tony Robinson's [Building Virtual Machine Labs: A Hands-on Guide (Second Edition)](https://leanpub.com/avatar2), which is completely free to read and use. Once you are finished creating the VM home lab explained in the textbook, you can expand on it or tear it down completely and build your own VM home lab using your newly acquired skills and knowledge. If you are interested in scripting, then I highly recommend learning Python or a scripting shell such as Bash or PowerShell.
 
 ### 2. Write an Effective Resume
 
