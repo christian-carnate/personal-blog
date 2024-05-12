@@ -2,14 +2,16 @@
 title: How to Pass the CompTIA A+, Network+, and Security+
 date: 2023-12-30 00:32:30 -1000
 categories: [Certifications, CompTIA]
-tags: [certifications, CompTIA]
+tags: [certifications]
+description: The CompTIA A+, Network+, and Security+ are the most popular entry-level IT certifications in the world. Read this article to learn more about them.
+image: /assets/img/article_prev/CompTIA_trifecta.png
 ---
 
 Ever since I obtained my CompTIA A+, Network+, and Security+ certifications, I have been continuously hounded by my friends and classmates about how to prepare for these certifications. Hopefully, this article will assist you in passing the associated exam(s) on your very first attempt.
 
 ## General Tips and Tricks
 
-Without going into much details, for the A+, Network+, and Security+ exams, you will have **90 minutes** to answer **up to 90 questions** that are selected randomly, valued differently based on a variety of factors, but never change throughout the exam. There are three question types you will receive on these exams.
+Without going into much detail, for the A+, Network+, and Security+ exams, you will have **90 minutes** to answer **up to 90 questions** that are selected randomly, valued differently based on a variety of factors, but never change throughout the exam. There are three question types you will receive on these exams.
 - **Multiple-choice questions (MCQs):** These questions ask you to choose 1 answer out of 4 possible answer choices.
 - **Multiple-select questions (MSQs):** These questions ask you to choose 2-3 answers out of 5-7 possible answer choices.
 - **Performance-based questions (PBQs):** These questions include fill-in-the-blanks, completion, drag-and-drops, matching, dropdowns, command-line interface/terminal, and basically any question format that is not an MCQ or MSQ. You will receive 2-6 of these at the beginning of your exam.
@@ -58,7 +60,7 @@ There are several exam-specific tips I can share for the Security+.
 - **This exam is more of a grammar and memorization test rather than a "solution implementation" test.** Create flashcards or create a wordwall to help you memorize definitions. **However, keep in mind that the Security+ is not strictly a pure definition exam either.** You will also be tasked with solving real-life scenarios and problems. Pick out the key words and phrases that a question contains and make a determination which option(s) is/are the correct answer(s).
 - **The PBQs require a great amount of critical thinking and logical analysis.** Read the question(s) carefully, examine all parts of the PBQ, and make a determination on what to do based on the details you found.
 
-## How Do I Start Studying?
+## How do I start studying?
 
 This is a common question I am often asked. I always refer people to the **Dax Methodology,** named after a community member in Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq). Here is the Dax Methodology in full.
 

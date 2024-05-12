@@ -2,7 +2,9 @@
 title: Frequently Asked Questions (FAQs) for CompTIA Exams
 date: 2023-12-31 1:40:30 -1000
 categories: [Certifications, CompTIA]
-tags: [certifications, CompTIA]
+tags: [certifications]
+description: Do you have a question about CompTIA exams? This article covers the most frequently asked questions (FAQs) about CompTIA exams.
+image: /assets/img/article_prev/CompTIA_certification_path.png
 ---
 
 CompTIA certifications are usually an aspiring IT professional's first foray into the world of IT certifications. However, there are many aspects to them that confuse even the most seasoned IT professionals. This article conglomerates all of my answers to frequently asked questions (FAQs) about CompTIA exams so I can easily refer someone to this resource.
@@ -87,7 +89,7 @@ The in-person check-in process is relatively simple. You arrive early at the tes
 
 **No, and you will never know which questions you missed.** You will instead receive a score report that will show which exam objectives you missed questions in.
 
-![An example score report.](/assets/img/CompTIA_FAQ/CompTIA_sample_score_report.png)
+![An example score report.](/assets/img/article_img/article_img/CompTIA_FAQ/CompTIA_sample_score_report.png)
 _My score report for the Security+ SY0-601 exam._
 
 ## I passed my exam! When do I receive my certificate?
@@ -98,10 +100,10 @@ According to the score report that you receive after you pass your exam, **you w
 
 **Your score report will tell you which exam objectives you missed questions in.** If you took the exam in-person, then your score report should have been printed out and given to you. If you took the exam online, then you can find your score report by logging into your CompTIA PearsonVUE Dashboard, going to the home page, and clicking *View score reports.*
 
-![An example of missed exam objectives.](/assets/img/CompTIA_FAQ/CompTIA_missed_exam_objectives.png)
+![An example of missed exam objectives.](/assets/img/article_img/CompTIA_FAQ/CompTIA_missed_exam_objectives.png)
 _The exam objectives I incorrectly answered questions in for the Security+ SY0-601 exam._
 
-![Location of score report.](/assets/img/CompTIA_FAQ/CompTIA_score_report_location.png)
+![Location of score report.](/assets/img/article_img/CompTIA_FAQ/CompTIA_score_report_location.png)
 _Click on "View score reports" in the CompTIA PearsonVUE Dashboard to find your score report._
 
 ## Will I receive anything after I pass my exam?
@@ -113,22 +115,22 @@ _Click on "View score reports" in the CompTIA PearsonVUE Dashboard to find your 
 - A free physical certificate kit that is shipped to an address of your choice once you confirm your address via the [CompTIA Certification Portal](https://login.comptia.org)
 - A digital (.pdf) certificate and a .zip file containing CompTIA logos that you can download in your CompTIA CertMetrics Dashboard
 
-![CompTIA congratualtory email.](/assets/img/CompTIA_FAQ/CompTIA_congratulatory_email.png)
+![CompTIA congratualtory email.](/assets/img/article_img/CompTIA_FAQ/CompTIA_congratulatory_email.png)
 _A congratulatory email from CompTIA for passing the CompTIA Security+ exam._
 
-![Credly digital badge.](/assets/img/CompTIA_FAQ/CompTIA_Credly_digital_badge.png)
+![Credly digital badge.](/assets/img/article_img/CompTIA_FAQ/CompTIA_Credly_digital_badge.png)
 _A digital badge on Credly for passing the CompTIA Security+ exam._
 
-![CompTIA lower-level certification renewal email.](/assets/img/CompTIA_FAQ/CompTIA_certification_renewal_email.png)
+![CompTIA lower-level certification renewal email.](/assets/img/article_img/CompTIA_FAQ/CompTIA_certification_renewal_email.png)
 _An email from CompTIA stating that my Network+ certification was renewed._
 
-![Location of the CompTIA CertMetrics Dashboard.](/assets/img/CompTIA_FAQ/CompTIA_CertMetrics_button.png)
+![Location of the CompTIA CertMetrics Dashboard.](/assets/img/article_img/CompTIA_FAQ/CompTIA_CertMetrics_button.png)
 _Click on "Go to My Certifications" to access your CompTIA CertMetrics Dashboard._
 
-![Location of CompTIA certificate downloads.](/assets/img/CompTIA_FAQ/CompTIA_certificate_downloads.png)
+![Location of CompTIA certificate downloads.](/assets/img/article_img/CompTIA_FAQ/CompTIA_certificate_downloads.png)
 _Go to the "Certifications" tab to download your digital certificate and CompTIA logos._
 
-![Security+ certificate.](/assets/img/CompTIA_FAQ/CompTIA_Security+_digital_certificate.png)
+![Security+ certificate.](/assets/img/article_img/CompTIA_FAQ/CompTIA_Security+_digital_certificate.png)
 _My digital (.pdf) certificate for passing the CompTIA Security+ exam. You will receive a physical version in your physical certificate kit._
 
 ## Do CompTIA certifications expire?
