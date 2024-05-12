@@ -89,7 +89,7 @@ The in-person check-in process is relatively simple. You arrive early at the tes
 
 **No, and you will never know which questions you missed.** You will instead receive a score report that will show which exam objectives you missed questions in.
 
-![An example score report.](/assets/img/article_img/article_img/CompTIA_FAQ/CompTIA_sample_score_report.png)
+![An example score report.](/assets/img/article_img/CompTIA_FAQ/CompTIA_sample_score_report.png)
 _My score report for the Security+ SY0-601 exam._
 
 ## I passed my exam! When do I receive my certificate?
