@@ -3,7 +3,7 @@ title: How to Pass the CompTIA CySA+
 date: 2024-05-10 00:22:10 -1000
 categories: [Certifications, CompTIA]
 tags: [certifications]
-description: The CompTIA CySA+ validates knowledge about security operations, vulnerability management, incident response, and reporting and communication. Read this article to learn more about it.
+description: Interested in the CompTIA CySA+? Read this article to learn more about the certification, which validates knowledge about security operations, vulnerability management, incident response, and reporting and communication.
 image: /assets/img/article_prev/CompTIA_CySA+_background.png
 ---
 
