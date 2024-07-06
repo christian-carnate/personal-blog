@@ -1,8 +1,8 @@
 ---
-title: How to Pass the Splunk Core Certified Power User
+title: How to Pass the Splunk Core Certified Power User Exam
 date: 2024-05-10 00:22:47 -1000
 categories: [Certifications, Splunk]
-tags: [certifications]
+tags: [certifications, Splunk]
 description: Interested in certifying your Splunk knowledge? The Splunk Core Certified Power User certification is an excellent certification to start with.
 image: /assets/img/article_prev/Splunk_logo_background.png
 ---
@@ -51,5 +51,5 @@ Learning how to craft powerful searches in a SIEM is an invaluable skill for any
 
 ## Changelog
 
-**05/10/2024:** Added a changelog.
-**05/11/2024:** Fixed grammar, spelling, and punctuation mistakes.
+- **05/10/2024:** Added a changelog.
+- **05/11/2024:** Fixed grammar, spelling, and punctuation mistakes.

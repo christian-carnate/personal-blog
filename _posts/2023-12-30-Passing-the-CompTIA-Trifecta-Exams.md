@@ -1,8 +1,8 @@
 ---
-title: How to Pass the CompTIA A+, Network+, and Security+
+title: How to Pass the CompTIA A+, Network+, and Security+ Exams
 date: 2023-12-30 00:32:30 -1000
 categories: [Certifications, CompTIA]
-tags: [certifications]
+tags: [certifications, CompTIA]
 description: Interested in the CompTIA trifecta? Read this article to learn more about the most popular entry-level IT certifications in the world.
 image: /assets/img/article_prev/CompTIA_trifecta_background.jpg
 ---
@@ -28,7 +28,7 @@ To conserve time efficiently to ensure that you answer all questions correctly, 
 
 The only training materials I definitely do not recommend to use are CompTIA's CertMaster resources, except for CertMaster Labs. **The entire CertMaster suite is not indicative of the actual exam experience,** and I have heard many stories in which individuals who used CertMaster resources as exam preparation tools failed their exam(s). Again, CertMaster Labs is an exception because they are actually decent, but there are many other lab simulation tools that you can use (*e.g.*, PC Building Simulator, Cisco Packet Tracer, TestOut, Total Seminars, etc.) if you want to learn practical application of the material.
 
-The only video courses I recommend to use are Professor Messer's [A+ 220-1101](https://youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC&si=_KbA3BNo91poY-Hn), [A+ 220-1102](https://www.youtube.com/playlist?list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b), [Network+ N10-008](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=wqJ_jo9DL4wuNoE9), and [Security+ SY0-601](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8&si=waGR8RNg8rf5qSwX) or [Security+ SY0-701](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) YouTube video playlists. Messer's videos directly follow the exam objectives and cover only content that is actually covered by the exam, unlike other instructors. Similarly, the only practice exams I recommend to use are Professor Messer's [A+ 220-1101](https://www.professormesser.com/220-1101-success-bundle/), [A+ 220-1102](https://www.professormesser.com/220-1102-success-bundle/), and [Security+ SY0-601](https://www.professormesser.com/sy0-601-success-bundle/) or [Security+ SY0-701](https://www.professormesser.com/sy0-701-success-bundle/) practice exams. He unfortunately does not have any Network+ N10-008 practice exams, so you will have to rely on other training materials mentioned below.
+The only video courses I recommend to use are Professor Messer's [A+ 220-1101](https://youtube.com/playlist?list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC&si=_KbA3BNo91poY-Hn), [A+ 220-1102](https://www.youtube.com/playlist?list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b), [Network+ N10-008](https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&si=wqJ_jo9DL4wuNoE9) or [Network+ N10-009](https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8), and [Security+ SY0-701](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) YouTube video playlists. Messer's videos directly follow the exam objectives and cover only content that is actually covered by the exam, unlike other instructors. Similarly, the only practice exams I recommend to use are Professor Messer's [A+ 220-1101](https://www.professormesser.com/220-1101-success-bundle/), [A+ 220-1102](https://www.professormesser.com/220-1102-success-bundle/), and [Security+ SY0-701](https://www.professormesser.com/sy0-701-success-bundle/) practice exams. He unfortunately does not have any Network+ N10-008 or N10-009 practice exams, so you will have to rely on other training materials mentioned below.
 
 Another resource I recommend to use is a textbook, but unlike Messer's videos, textbooks are created by individual authors, who may organize content differently and may cover content that may not even be on the exam. Thus, make sure to always cross-reference textbook material with the [official exam objectives](https://www.comptia.org/training/resources/exam-objectives) for each exam to ensure that you are learning the correct material. The only textbook series that I used during my studies is Wiley's Sybex brand, which is available on [Amazon](https://www.amazon.com/s?k=sybex&crid=2S0VWVEDZA7SD&sprefix=sybex%2Caps%2C229&ref=nb_sb_noss_1). The Sybex textbooks are decent and cover a bit of unnecessary content, but there is still valuable information that can supplement your learning. Wiley also provides Sybex practice exam textbooks that can be used as replacements for Messer's practice exams, especially for the Network+ N10-008.
 
@@ -44,6 +44,8 @@ There is not a lot of tips I can share for the A+. It is relatively straightforw
 
 The CompTIA Network+ is a certification that covers foundational networking concepts (obviously). Unlike the A+, the Network+ has only one exam to take. Achieve a score of **720/900,** and you are Network+ certified. I found the Network+ to be the hardest out of the trifecta, but I also found it to be the most enjoyable. The PBQs were fun, and funnily enough, I knew how to answer the PBQs because of knowledge I learned from networking classes (shout out to Instructor Reed!).
 
+If you did your research, you would know that there are two versions of the Network+ currently available: the N10-008 and N10-009. Because there are relatively very few quality training materials released for the N10-009, I highly recommend studying for and taking the N10-008 exam instead. However, my opinion will change when the N10-008's retirement date on December 20th, 2024, approaches.
+
 There are several exam-specific tips that I can share for the Network+.
 - **Do not hyperfocus on subnetting just because it seems complicated at first.** There are so many other exam objectives that CompTIA needs to test you on, and you may not even be tested on subnetting at all. However, it is still important to learn subnetting, especially VLSM/CIDR subnetting via the magic number or seven-second methods. Every second is precious during an exam, and there is no time available to be breaking octets into bits while the clock is ticking down.
 - **Because the Network+ is a vendor-neutral exam, keep in mind that you will not be configuring vendor-specific devices.** As a result, all concepts are surface-level; just learn what you need to learn and move on. If you want to learn networking much more in-depth, then consider taking Cisco's CCNA certification instead.
@@ -51,9 +53,7 @@ There are several exam-specific tips that I can share for the Network+.
 
 ## The CompTIA Security+
 
-The CompTIA Security+ is arguably the most famous IT certification in the world and the most sought-after security certification for entry-level positions. The Security+ has only one exam to take. Achieve a score of **750/900**, and you are Security+ certified. If you do your research, you will find out that there are currently two versions available: the SY0-601 and the SY0-701.
-
-So which version do I recommend to take? My answer is the SY0-701. The SY0-701 has 30% fewer exam objectives than the SY0-601, and because the SY0-601 retires on July 31st, 2024, the closer that date approaches, the more enticing the SY0-701 is to take.
+The CompTIA Security+ is arguably the most famous IT certification in the world and the most sought-after security certification for entry-level positions. The Security+ has only one exam to take. Achieve a score of **750/900**, and you are Security+ certified.
 
 There are several exam-specific tips I can share for the Security+.
 - **Like the Network+ and all other CompTIA exams, the Security+ is vendor-neutral.** Everything is surface-level, so you do not need to understand all concepts in-depth. As long as you understand all of the content in Professor Messer's videos and know the exam objectives by heart, you will be fine.
@@ -74,7 +74,7 @@ This is a common question I am often asked. I always refer people to the **Dax M
 
 ## Conclusion
 
-The A+, Network+, and Security+ are usually the first IT certification exams an aspiring IT or cybersecurity professional takes in their career. If you are still reading this, I hope that this article assists you in your certification endeavors, I wish you the best on your certification exams. I will continually update this article as the exams continue to evolve. If you have any questions, feel free to contact me through Discord or connect with me via LinkedIn to message me. I will happily answer questions that are compliant with the CompTIA Candidate Agreement.
+The A+, Network+, and Security+ are usually the first IT certification exams an aspiring IT or cybersecurity professional takes in their career. I hope that this article assists you in your certification endeavors, and I wish you the best on your certification exams. I will continually update this article as the exams continue to evolve. If you have any questions, feel free to email me or connect with me via LinkedIn to message me. I will happily answer questions that are compliant with the CompTIA Candidate Agreement.
 
 ## Changelog
 

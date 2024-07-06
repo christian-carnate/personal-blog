@@ -1,9 +1,9 @@
 ---
 title: Entry-Level Cybersecurity Interview Questions
 date: 2024-05-11 11:55:00 -1000
-categories: [Cybersecurity Career Resources, Interviews]
+categories: [Career Resources, Interviews]
 tags: [career resources]
-description: Received your first cybersecurity job interview? This article will cover common HR and technical questions to assist you with passing the interview stages with flying colors.
+description: Received a cybersecurity job interview opportunity? This article will cover interview resources and a list of common HR and technical questions that will help you ace your next cybersecurity job interview.
 image: /assets/img/article_prev/interview.jpg
 ---
 
@@ -78,8 +78,8 @@ Technical questions, as the name implies, are questions that test your technical
 
 ## Conclusion
 
-Navigating a cybersecurity interview can be a tough challenge if you are not prepared enough. I hope this article assists you in your career endeavors, and I wish you the best of luck for your interview.
+Navigating a cybersecurity interview can be a tough challenge if you are not prepared enough. I hope this article assists you in your career endeavors, and I wish you the best of luck on your upcoming interview.
 
 ## Changelog
 
-**05/11/2024:** Added a changelog.
+- **05/11/2024:** Added a changelog.

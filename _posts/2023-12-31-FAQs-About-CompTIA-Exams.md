@@ -1,10 +1,10 @@
 ---
-title: Frequently Asked Questions (FAQs) for CompTIA Exams
+title: Frequently Asked Questions (FAQs) About CompTIA Exams
 date: 2023-12-31 1:40:30 -1000
 categories: [Certifications, CompTIA]
-tags: [certifications]
+tags: [certifications, CompTIA]
 description: Do you have a question about CompTIA exams? This article covers the most frequently asked questions (FAQs) about CompTIA exams.
-image: /assets/img/article_prev/CompTIA_IT_certification_roadmap.jpg
+image: /assets/img/article_prev/CompTIA_certification_pathways.jpg
 ---
 
 CompTIA certifications are usually an aspiring IT professional's first foray into the world of IT certifications. However, there are many aspects to them that confuse even the most seasoned IT professionals. This article conglomerates all of my answers to frequently asked questions (FAQs) about CompTIA exams so I can easily refer someone to this resource.

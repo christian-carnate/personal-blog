@@ -1,15 +1,19 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url:  'https://www.instagram.com/christian.carnate/'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: github
+  icon: "fab fa-github"
 
 - type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/christian-carnate/'
 
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
