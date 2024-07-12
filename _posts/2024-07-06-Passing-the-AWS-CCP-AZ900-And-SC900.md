@@ -1,13 +1,13 @@
 ---
-title: How to Pass the AWS Certified Cloud Practitioner and Microsoft AZ-900 and SC-900 Exams
+title: How to Pass the AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 Exams
 date: 2024-07-06 00:08:28 -0700
-categories: [Certifications, Cloud]
+categories: [Certifications, AWS and Azure]
 tags: [certifications, AWS, Azure]
-description: Interested in the the foundational AWS and Microsoft Azure certifications? Read this article to learn more about the AWS Certified Cloud Practitioner and Microsoft AZ-900 and SC-900 exams.
+description: Interested in the the foundational AWS and Microsoft Azure certifications? Read this article to learn more about the AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams.
 image: /assets/img/article_prev/AzureAndAWS.png
 ---
 
-Last year, in the fall semester of my junior year, I passed the AWS Certified Cloud Practitioner and Microsoft AZ-900 and SC-900 exams. Here are my thoughts on the certifications.
+Last year, in the fall semester of my junior year, I passed the AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams. Here are my thoughts on the certifications.
 
 ## Overall Thoughts
 
@@ -26,7 +26,7 @@ For any AWS exam (including more "advanced" AWS certifications such as the AWS S
 
 ## Conclusion
 
-The AWS Certified Cloud Practitioner and Microsoft AZ-900 and SC-900 exams are not the most difficult of exams, but with recent updates, they cover a great amount of information if you are not familiar with either cloud services provider's architecture. As long as you follow the exam guide/study guide provided and use high quality training material such as Stephane Maarek's training material, then you will pass the exams.
+The AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams are not the most difficult of exams, but with recent updates, they cover a great amount of information if you are not familiar with either cloud services provider's architecture. As long as you follow the exam guide/study guide provided and use high quality training material such as Stephane Maarek's training material, then you will pass the exams.
 
 ## Changelog
 

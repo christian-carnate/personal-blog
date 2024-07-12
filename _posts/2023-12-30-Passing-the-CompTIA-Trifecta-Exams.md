@@ -80,3 +80,4 @@ The A+, Network+, and Security+ are usually the first IT certification exams an 
 
 - **01/03/2024:** Added a changelog.
 - **05/10/2024:** Updated the article to include Security+ SY0-701 information and fixed formatting, grammar, and spelling mistakes.
+- **07/06/2024:** Removed Security+ SY0-601 information as retirement approaches and added Network+ N10-009 information.

@@ -14,12 +14,12 @@ Congratulations! You have finally received a cybersecurity job interview opportu
 Regardless of the position you are interviewing for, you will have to answer HR questions, also known as personality questions. The goal of these questions is for the interviewer(s) to learn more about you, including your personality, work style, and thinking process.
 - **Regardless of what happens, just be yourself, smile, and act interested in the position.**
 - **Always remember to ask questions at the end of the interview.** The company is not only interviewing you, but you are also interviewing the company. Do not ask straightforward and direct questions (e.g., what is the hourly pay/salary for this position). However, learn about the work environment, the team, and the opportunities the company provides. Here is a [list of interview questions](https://www.indeed.com/career-advice/interviewing/smart-questions-to-ask-in-an-interview) that you can ask your interviewer(s).
-- I have an [interview guide](https://docs.google.com/document/d/1yrsojorTDhMojsptToV4dOVdn05wFcvNT8iRtzpJpmQ/edit) that assists you in building great responses to common HR questions.
+- David Paykin's [interview guide](https://docs.google.com/document/d/1yrsojorTDhMojsptToV4dOVdn05wFcvNT8iRtzpJpmQ/edit) assists you in building great responses to common HR questions.
 - When answering situational questions (*e.g.,* tell me about a time you overcame a challenge), use the [STAR method.](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 
 ## Technical Questions
 
-Technical questions, as the name implies, are questions that test your technical knowledge about cybersecurity. These types of questions usually come in a later interview stage after the recruiter and/or HR interview(s), but you must always be prepared to answer technical questions at any stage of the interviewing process. Technical questions may also ask about your thinking process and what tools, policies, processes, and/or procedures you would use to solve a hypothetical situation. Here is a list of common technical questions for entry-level cybersecurity positions.
+Technical questions test your technical knowledge about cybersecurity and/or IT, and the interviewer(s) may ask about your thinking process and what tools, policies, processes, and/or procedures you would use to solve a hypothetical situation. These types of questions usually come in a later interview stage after the recruiter and/or HR interview(s), but you must always be prepared to answer technical questions at any stage of the interviewing process. Here is a list of common technical questions for entry-level cybersecurity positions.
 
 ### Networking Foundations
 
