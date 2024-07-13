@@ -92,7 +92,3 @@ Personally, I have had applications declined within 24-72 hours of submission, w
 ## Conclusion
 
 The cybersecurity job market is highly competitive, but it does not have to be if you make the correct career decisions. Invest in your future career in cybersecurity now by gaining the relevant skills, knowledge, and qualifications needed to be competitive for a cybersecurity role.
-
-## Changelog
-
-- **05/11/2024:** Added a changelog.

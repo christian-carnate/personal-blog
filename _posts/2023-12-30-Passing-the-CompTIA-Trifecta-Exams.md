@@ -75,9 +75,3 @@ This is a common question I am often asked. I always refer people to the **Dax M
 ## Conclusion
 
 The A+, Network+, and Security+ are usually the first IT certification exams an aspiring IT or cybersecurity professional takes in their career. I hope that this article assists you in your certification endeavors, and I wish you the best on your certification exams. I will continually update this article as the exams continue to evolve. If you have any questions, feel free to email me or connect with me via LinkedIn to message me. I will happily answer questions that are compliant with the CompTIA Candidate Agreement.
-
-## Changelog
-
-- **01/03/2024:** Added a changelog.
-- **05/10/2024:** Updated the article to include Security+ SY0-701 information and fixed formatting, grammar, and spelling mistakes.
-- **07/06/2024:** Removed Security+ SY0-601 information as retirement approaches and added Network+ N10-009 information.

@@ -48,8 +48,3 @@ I highly recommend Hailie Shaw's [Splunk: Zero to Power User](https://www.udemy.
 ## Conclusion
 
 Learning how to craft powerful searches in a SIEM is an invaluable skill for any cybersecurity analyst, and because most SIEMs use very similar search languages, knowing how to craft powerful SPL searches can be a beneficial skill to learn, regardless of which SIEM a company uses. If you have any questions about the Splunk Core Certified Power User certification, feel free to DM me on Discord or connect with me on LinkedIn.
-
-## Changelog
-
-- **05/10/2024:** Added a changelog.
-- **05/11/2024:** Fixed grammar, spelling, and punctuation mistakes.

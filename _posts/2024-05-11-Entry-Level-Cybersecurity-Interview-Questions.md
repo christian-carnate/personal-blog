@@ -79,7 +79,3 @@ Technical questions test your technical knowledge about cybersecurity and/or IT,
 ## Conclusion
 
 Navigating a cybersecurity interview can be a tough challenge if you are not prepared enough. I hope this article assists you in your career endeavors, and I wish you the best of luck on your upcoming interview.
-
-## Changelog
-
-- **05/11/2024:** Added a changelog.

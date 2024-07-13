@@ -29,8 +29,3 @@ Would I recommmend PluralSight? If you want access to a massive library of cours
 ## Conclusion
 
 The CompTIA CySA+ is a somewhat easy certification if you have already taken the Security+ and have relevant work experience, such as myself. However, it still gives a good introduction into the world of security operations, vulnerability management, incident response, and reporting and communication, all of which are vital responsibilities of a cybersecurity analyst in the modern era.
-
-## Changelog
-
-- **05/10/2024:** Added a changelog.
-- **05/11/2024:** Fixed grammar, spelling, and punctuation mistakes.

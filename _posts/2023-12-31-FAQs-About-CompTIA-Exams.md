@@ -146,9 +146,3 @@ Review the ways to renew your CompTIA certifications [here.](https://www.comptia
 No offense, but the vast majority of questions that people ask about CompTIA exams can be easily found on Google. Do your due research first before asking a forum a question that has been asked repeatedly.
 
 If you have exam-specific questions, then the best bet is either the [r/CompTIA subreddit](https://www.reddit.com/r/CompTIA/) or Professor Messer's [Discord server](https://discord.gg/dtf4uQPDZq). I am very active in Messer's Discord server, so if you want a quick response, then Messer's Discord server is your best choice to ask questions.
-
-## Changelog
-
-- **01/03/2024:** Added a changelog, added another question and image, and fixed formatting, spelling, and grammar mistakes.
-- **02/01/2024:** Added a new question about CompTIA's Network+ vs. Cisco's CCNA and edited a few lines for grammar corrections.
-- **05/10/2024:** Added another image and fixed formatting, spelling, and grammar mistakes.

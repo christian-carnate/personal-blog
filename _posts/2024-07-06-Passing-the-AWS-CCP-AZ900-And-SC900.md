@@ -27,7 +27,3 @@ For any AWS exam (including more "advanced" AWS certifications such as the AWS S
 ## Conclusion
 
 The AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams are not the most difficult of exams, but with recent updates, they cover a great amount of information if you are not familiar with either cloud services provider's architecture. As long as you follow the exam guide/study guide provided and use high quality training material such as Stephane Maarek's training material, then you will pass the exams.
-
-## Changelog
-
-- **07/06/2024:** Added a changelog.
