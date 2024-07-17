@@ -1,7 +1,7 @@
 ---
 title: Competing for a Cybersecurity Role
 date: 2024-05-11 17:50:00 -1000
-categories: [Career Resources, Career Guidance]
+categories: [IT and Cybersecurity, Career Resources]
 tags: [career resources]
 description: Struggling to get a job in cybersecurity? Read this article for my tips and tricks into getting your foot in the cybersecurity door.
 image: /assets/img/article_prev/cybersecurity_analyst.jpg

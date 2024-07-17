@@ -1,8 +1,8 @@
 ---
 title: Building a Virtual Machine (VM) Home Lab
 date: 2024-02-01 20:18:30 -0700
-categories: [Projects, Virtual Machine (VM) Home Lab]
-tags: [projects]
+categories: [IT and Cybersecurity, Projects]
+tags: [VirtualBox, projects]
 description: Learn how I designed and created a virtual machine (VM) home lab in VirtualBox using free resources, tools, and services.
 image: /assets/img/article_prev/VirtualBox_logo.jpg
 ---

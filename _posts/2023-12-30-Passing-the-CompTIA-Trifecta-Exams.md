@@ -1,7 +1,7 @@
 ---
 title: How to Pass the CompTIA A+, Network+, and Security+ Exams
 date: 2023-12-30 00:32:30 -1000
-categories: [Certifications, CompTIA]
+categories: [IT and Cybersecurity, Certifications]
 tags: [certifications, CompTIA]
 description: Interested in the CompTIA trifecta? Read this article to learn more about the most popular entry-level IT certifications in the world.
 image: /assets/img/article_prev/CompTIA_trifecta_background.jpg

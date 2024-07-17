@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions (FAQs) About CompTIA Exams
 date: 2023-12-31 1:40:30 -1000
-categories: [Certifications, CompTIA]
+categories: [IT and Cybersecurity, Certifications]
 tags: [certifications, CompTIA]
 description: Do you have a question about CompTIA exams? This article covers the most frequently asked questions (FAQs) about CompTIA exams.
 image: /assets/img/article_prev/CompTIA_certification_pathways.jpg

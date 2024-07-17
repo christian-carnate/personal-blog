@@ -1,7 +1,7 @@
 ---
 title: How to Pass the AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 Exams
 date: 2024-07-06 00:08:28 -0700
-categories: [Certifications, AWS and Azure]
+categories: [IT and Cybersecurity, Certifications]
 tags: [certifications, AWS, Azure]
 description: Interested in the the foundational AWS and Microsoft Azure certifications? Read this article to learn more about the AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams.
 image: /assets/img/article_prev/AzureAndAWS.png
