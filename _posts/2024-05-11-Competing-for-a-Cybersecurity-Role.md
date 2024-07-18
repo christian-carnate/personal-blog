@@ -89,6 +89,6 @@ It happens to all of us. **Do *not* let it discourage you.** There are a myriad 
 
 Personally, I have had applications declined within 24-72 hours of submission, while my other applications were ignored and I was not given a rejection notice until the job posting was taken down. Regardless, I never let application rejections discourage me, and as a result, I am now working as a SOC Analyst for my university.
 
-## Conclusion
+## Final Thoughts
 
 The cybersecurity job market is highly competitive, but it does not have to be if you make the correct career decisions. Invest in your future career in cybersecurity now by gaining the relevant skills, knowledge, and qualifications needed to be competitive for a cybersecurity role.

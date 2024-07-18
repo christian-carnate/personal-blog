@@ -72,6 +72,6 @@ This is a common question I am often asked. I always refer people to the **Dax M
 >
 > Once you have completed the practice exam, score it and make a note of how long it took you. Obviously you would want to review the detailed answers for any items that you missed to understand why you got them wrong. But this is where many people make an unfortunate mistake. Do not disregard the questions that you got correct go back through that same practice exam, reading over every single question and answer. If there are any items, acronyms, etc. that you do not recognize and immediately understand, add them to your study guide. Maybe you got lucky and the correct answer was something you knew, but it could just easily have asked about one of the responses that you did not know.
 
-## Conclusion
+## Final Thoughts
 
 The A+, Network+, and Security+ are usually the first IT certification exams an aspiring IT or cybersecurity professional takes in their career. I hope that this article assists you in your certification endeavors, and I wish you the best on your certification exams. I will continually update this article as the exams continue to evolve. If you have any questions, feel free to email me or connect with me via LinkedIn to message me. I will happily answer questions that are compliant with the CompTIA Candidate Agreement.

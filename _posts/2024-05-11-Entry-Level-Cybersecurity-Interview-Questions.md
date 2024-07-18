@@ -76,6 +76,6 @@ Technical questions test your technical knowledge about cybersecurity and/or IT,
 - How do you protect a critical database server that contains confidential information such as student records?
 - List as many TCP and UDP port numbers and their associated protocols.
 
-## Conclusion
+## Final Thoughts
 
 Navigating a cybersecurity interview can be a tough challenge if you are not prepared enough. I hope this article assists you in your career endeavors, and I wish you the best of luck on your upcoming interview.

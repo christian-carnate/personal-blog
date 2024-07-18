@@ -26,6 +26,6 @@ Because Professor Messer does not have CySA+ training material, I purchased an a
 
 Would I recommmend PluralSight? If you want access to a massive library of courses, then yes, but I cannot vouch for their quality. Regardless, I am planning to use one of their certification paths again for the Cisco CyberOps Associate exam, which I will take in Fall 2024.
 
-## Conclusion
+## Final Thoughts
 
 The CompTIA CySA+ is a somewhat easy certification if you have already taken the Security+ and have relevant work experience, such as myself. However, it still gives a good introduction into the world of security operations, vulnerability management, incident response, and reporting and communication, all of which are vital responsibilities of a cybersecurity analyst in the modern era.

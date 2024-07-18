@@ -62,6 +62,6 @@ In my [article](https://christiancarnate.com/posts/Competing-for-a-Cybersecurity
 
 You can view and/or download the network diagram and/or configuration files associated with this project [here](https://github.com/christian-carnate/vm-homelab).
 
-## Conclusion
+## Next Steps
 
 Although much work has already been completed, my VM home lab is a work-in-progress, and I will expand upon it to learn new skills when necessary. If you have an idea on how I can expand my VM home lab, feel free to message me through any of my social media contacts.

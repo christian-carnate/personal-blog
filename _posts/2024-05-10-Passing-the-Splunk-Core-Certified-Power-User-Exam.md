@@ -45,6 +45,6 @@ The Splunk Core Certified Power User already assumes you have Splunk Core Certif
 
 I highly recommend Hailie Shaw's [Splunk: Zero to Power User](https://www.udemy.com/course/splunk-zero-to-power-user/) video course on Udemy. She is very personable and charismatic in her teaching, and she covers most of what you need to know for the exam in layman's terms. I also highly recommend that you go through [Splunk SPL2 documentation](https://docs.splunk.com/Documentation/SCS/current/SearchReference/Introduction) for every command, command modifier, function, and argument that she shows and demonstrates.
 
-## Conclusion
+## Final Thoughts
 
 Learning how to craft powerful searches in a SIEM is an invaluable skill for any cybersecurity analyst, and because most SIEMs use very similar search languages, knowing how to craft powerful SPL searches can be a beneficial skill to learn, regardless of which SIEM a company uses. If you have any questions about the Splunk Core Certified Power User certification, feel free to DM me on Discord or connect with me on LinkedIn.

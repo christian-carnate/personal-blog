@@ -24,6 +24,6 @@ Unlike CompTIA exams (for the most part), AWS and Microsoft expect attention to 
 
 For any AWS exam (including more "advanced" AWS certifications such as the AWS Solutions Architect Associate), I highly recommend [Stephane Maarek's courses on Udemy](https://www.udemy.com/user/stephane-maarek/). I consider Stephane to be the Professor Messer of AWS because he teaches what you need to know for the exam. For Microsoft exams, any course on Udemy will do as long as the course is updated to the latest study guide for the exam you are taking.
 
-## Conclusion
+## Final Thoughts
 
 The AWS Certified Cloud Practitioner and Microsoft AZ-900/SC-900 exams are not the most difficult of exams, but with recent updates, they cover a great amount of information if you are not familiar with either cloud services provider's architecture. As long as you follow the exam guide/study guide provided and use high quality training material such as Stephane Maarek's training material, then you will pass the exams.
