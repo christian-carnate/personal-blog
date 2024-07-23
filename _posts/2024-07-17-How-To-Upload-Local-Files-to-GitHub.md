@@ -41,9 +41,9 @@ The file(s) you have uploaded should now appear in your repository.
 
 ![The file appears in the repository.](/assets/img/article_img/GitHub_FileUploadTutorial/GitHub_NewFileUpload.png)
 
-## Uploading Files and Folders to GitHub via CLI/Terminal
+## Uploading Files and Folders to GitHub via Command Prompt or Terminal
 
-Although directly uploading small files to GitHub is easy, uploading larger files, folders, and entire projects is easier through the CLI. To upload a folder via the CLI, you will need to [install Git](https://git-scm.com/downloads) first. Once done, if you want to have a readable description underneath your files, you have to create and include a *README.md* file within your folder. On Windows, you can create and rename a file to have a *.md* (markdown) extension then use [Notepad++](https://notepad-plus-plus.org/) to edit the file and the [Markdown Guide](https://www.markdownguide.org/) as a guide on how to use Markdown. On Linux, you can use the `touch` and `nano` commands to create and edit the *.md* file then use the Markdown Guide for assistance using Markdown.
+Although directly uploading small files to GitHub is easy, uploading larger files, folders, and entire projects is easier through a command-line interface (CLI). To upload a folder via a CLI, you will need to [install Git](https://git-scm.com/downloads) first. Once done, if you want to have a readable description underneath your files, you have to create and include a *README.md* file within your folder. On Windows, you can create and rename a file to have a *.md* (markdown) extension then use [Notepad++](https://notepad-plus-plus.org/) to edit the file and the [Markdown Guide](https://www.markdownguide.org/) as a guide on how to use Markdown. On Linux, you can use the `touch` and `nano` commands to create and edit the *.md* file then use the Markdown Guide for assistance using Markdown.
 
 ![A sample folder to upload to GitHub.](/assets/img/article_img/GitHub_FileUploadTutorial/GitHub_SampleFolder.png)
 
@@ -61,18 +61,18 @@ git push -f origin main
 
 The `cd` command changes the directory you are working in. `git init` initializes and organizes the folder so it can be used a repository. `git add .` tells Git to add the files in the folder to the repository. `git commit -m "<commit-message>"` creates a commit with a custom commit message (make sure to change *commit-message* to whatever you wish and to enclose it in quotation marks). `git branch -M main` sets the main branch, which is already the default branch for your repository. `git remote add origin <url-to-GitHub-repository>` tells Git which repository to upload the files to (grab the URL that ends in *.git* by clicking the green **Code** button on your repository's webpage and copying the HTTPS URL). `git push -f origin main` force pushes your commit to GitHub.
 
-If you want to push a local repository that is initialized and has a remote origin already set to a different repository on GitHub, use the command `git remote remove origin` to remove the set remote origin then use `git remote add origin <url-to-GitHub-repository>` to change which repository you want to upload to.
+If you want to push a local repository that is already initialized and has a remote origin set, use the command `git remote remove origin` to remove the remote origin then use `git remote add origin <url-to-GitHub-repository>` to change which repository you want to upload to.
 
 ![URL to add remote origin.](/assets/img/article_img/GitHub_FileUploadTutorial/GitHub_RepositoryURL.png)
 
 ![Successful commit to GitHub via CLI.](/assets/img/article_img/GitHub_FileUploadTutorial/GitHub_CommitViaCLI.png)
 
-Once you have completed all steps above, then your files should have uploaded to GitHub. If you have a *README.md* file, then it should display your markdown text underneath your files.
+Once you have completed all steps above, your files should have been uploaded to GitHub. If you have a *README.md* file, then it should display your markdown text underneath your files.
 
 ![Result after pushing the commit to GitHub from CLI.](/assets/img/article_img/GitHub_FileUploadTutorial/GitHub_CommitResult.png)
 
 Keep in mind that any files that existed in the repository prior to the pushing of the commit will be replaced with the files included in the commit.
 
-## Conclusion
+## Final Thoughts
 
 Congratulations, you have learned how to upload files and folders to your new GitHub repository. You can now share your hard work with friends, classmates, and future employers.

@@ -60,7 +60,7 @@ In my [article](https://christiancarnate.com/posts/Competing-for-a-Cybersecurity
 
 ## Configuration Files
 
-You can view and/or download the network diagram and/or configuration files associated with this project [here](https://github.com/christian-carnate/vm-homelab).
+You can view and/or download the network diagram and/or configuration files associated with this project [here](https://github.com/christian-carnate/VM-home-lab).
 
 ## Next Steps
 
