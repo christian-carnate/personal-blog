@@ -17,5 +17,7 @@ I created this blog to record and document my learning efforts outside academics
 - CompTIA A+, Network+, Security+, and CySA+
 - AWS Certified Cloud Practitioner
 - Microsoft AZ-900: Azure Fundamentals and SC-900: Security, Compliance, and Identity Fundamentals
+- TCM Security Practical OSINT Research Professional
 - Splunk Core Certified Power User
 - Fortinet Certified Fundamentals in Cybersecurity
+- LPI Linux Essentials
