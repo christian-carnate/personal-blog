@@ -53,7 +53,7 @@ Technical questions test your technical knowledge about cybersecurity and/or IT,
 
 ### Indicators of Compromise (IoCs) and Malware Analysis
 
-- What is an IoCs? What are common examples of IoCs?
+- What is an IoC? What are common examples of IoCs?
 - What is data exfiltration? Why is it important to stop?
 - What is lateral movement? Why is it important to stop?
 - What is persistence? How do threat actors maintain persistence in a system?

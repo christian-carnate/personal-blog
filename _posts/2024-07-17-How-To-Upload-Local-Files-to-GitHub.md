@@ -59,7 +59,13 @@ git remote add origin <url-to-GitHub-repository>
 git push -f origin main
 ```
 
-The `cd` command changes the directory you are working in. `git init` initializes and organizes the folder so it can be used a repository. `git add .` tells Git to add the files in the folder to the repository. `git commit -m "<commit-message>"` creates a commit with a custom commit message (make sure to change *commit-message* to whatever you wish and to enclose it in quotation marks). `git branch -M main` sets the main branch, which is already the default branch for your repository. `git remote add origin <url-to-GitHub-repository>` tells Git which repository to upload the files to (grab the URL that ends in *.git* by clicking the green **Code** button on your repository's webpage and copying the HTTPS URL). `git push -f origin main` force pushes your commit to GitHub.
+- The `cd` command changes the directory you are working in.
+- `git init` initializes and organizes the folder so it can be used a repository.
+- `git add .` tells Git to add the files in the folder to the repository.
+- `git commit -m "<commit-message>"` creates a commit with a custom commit message (make sure to change *commit-message* to whatever you wish and to enclose it in quotation marks).
+- `git branch -M main` sets the main branch, which is already the default branch for your repository.
+- `git remote add origin <url-to-GitHub-repository>` tells Git which repository to upload the files to (grab the URL that ends in *.git* by clicking the green **Code** button on your repository's webpage and copying the HTTPS URL).
+- `git push -f origin main` force pushes your commit to GitHub.
 
 If you want to push a local repository that is already initialized and has a remote origin set, use the command `git remote remove origin` to remove the remote origin then use `git remote add origin <url-to-GitHub-repository>` to change which repository you want to upload to.
 
